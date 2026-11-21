@@ -1,4 +1,42 @@
 schemaVersion,recordType,content.company,content.date,content.is_remote,content.role_family,source.name,source.url
+1.0,JOB,Grafana Labs,2026-11-21T13:13:01+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163682-engineering-manager-grafana-infrastructure-remote-ireland
+1.0,JOB,Ashby,2026-11-21T13:12:46+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163681-sales-manager-mid-market-emea-2
+1.0,JOB,Trustedhousesitters,2026-11-21T13:12:26+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163680-influencer-executive
+1.0,JOB,Grafana Labs,2026-11-21T13:12:24+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163679-director-sales-talent-acquisition-united-kingdom-remote
+1.0,JOB,Vonage,2026-11-21T13:12:23+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163678-identity-and-numbering-analyst-network-api-registration
+1.0,JOB,Ashby,2026-11-21T13:12:21+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163677-senior-security-engineer-corporate-security
+1.0,JOB,Nebius,2026-11-21T13:10:30+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163676-senior-technical-project-manager-vpc-2
+1.0,JOB,Montu Uk,2026-11-21T13:10:28+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163675-consultant-neurologist-paye-2
+1.0,JOB,Nebius,2026-11-21T13:10:26+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163674-senior-technical-project-manager-token-factory-2
+1.0,JOB,Semperis,2026-11-21T13:10:24+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163672-customer-success-manager-64
+1.0,JOB,6sense,2026-11-21T13:06:46+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163670-staff-security-engineer-secops-threats
+1.0,JOB,Nerdwallet,2026-11-21T13:06:28+00:00,True,Product,Jobicy,https://jobicy.com/jobs/163669-staff-data-product-manager-machine-learning-canada
+1.0,JOB,Stripe,2026-11-21T13:06:26+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163668-commercial-credit-operations-manager
+1.0,JOB,6sense,2026-11-21T13:06:25+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163667-staff-security-engineer-appsec
+1.0,JOB,Nerdwallet,2026-11-21T13:06:23+00:00,True,Product,Jobicy,https://jobicy.com/jobs/163666-staff-data-product-manager-machine-learning
+1.0,JOB,Stripe,2026-11-21T13:06:21+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163665-campaign-strategy-operations-manager-2
+1.0,JOB,6sense,2026-11-21T13:06:18+00:00,True,Product,Jobicy,https://jobicy.com/jobs/163664-sr-product-manager-2
+1.0,JOB,Teamworks,2026-11-21T13:06:16+00:00,True,Product,Jobicy,https://jobicy.com/jobs/163663-senior-technical-product-manager-ai
+1.0,JOB,Nerdwallet,2026-11-21T13:06:14+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163662-senior-data-scientist-applied-ml-canada
+1.0,JOB,Stripe,2026-11-21T13:06:12+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163661-briefing-content-strategist
+1.0,JOB,6sense,2026-11-21T13:06:10+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163660-sr-manager-gtm-engineering
+1.0,JOB,Teamworks,2026-11-21T13:05:39+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163659-product-management-mba-intern
+1.0,JOB,Nerdwallet,2026-11-21T13:05:36+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163658-senior-data-scientist-applied-ml
+1.0,JOB,6sense,2026-11-21T13:05:33+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163656-sr-data-scientist-forward-deployed
+1.0,JOB,Teamworks,2026-11-21T13:05:31+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163655-senior-marketing-operations-manager
+1.0,JOB,Nerdwallet,2026-11-21T13:05:29+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163654-senior-performance-marketing-manager-3
+1.0,JOB,Stripe,2026-11-21T13:05:27+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163653-backend-engineer-core-technology-2
+1.0,JOB,6sense,2026-11-21T13:05:25+00:00,True,Product,Jobicy,https://jobicy.com/jobs/163652-sr-customer-success-manager-upmarket
+1.0,JOB,Teamworks,2026-11-21T13:05:23+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163651-senior-software-engineer-ams
+1.0,JOB,Nerdwallet,2026-11-21T13:05:21+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163650-senior-corporate-accounting-compliance-analyst-ii
+1.0,JOB,Stripe,2026-11-21T13:04:50+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163649-analyst-relations-senior-manager
+1.0,JOB,6sense,2026-11-21T13:04:49+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163648-senior-advertising-account-executive
+1.0,JOB,Teamworks,2026-11-21T13:04:47+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163647-senior-account-executive-i-general-manager-influencer-di-north-america
+1.0,JOB,Stripe,2026-11-21T13:04:45+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163646-ai-transformation-lead-marketing
+1.0,JOB,6sense,2026-11-21T13:04:43+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163645-director-revenue-accounting
+1.0,JOB,Teamworks,2026-11-21T13:04:41+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163644-head-of-product-success-north-america-gtm
+1.0,JOB,The Flex,2026-11-21T13:04:39+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163643-the-flex-algeria-founders-associate
+1.0,JOB,Betterhelp,2026-11-21T13:04:38+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163642-staff-ml-ai-platform-engineer
 1.0,JOB,Nebius,2026-11-21T10:35:02+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163640-senior-technical-project-manager-base-infra
 1.0,JOB,Nebius,2026-11-21T10:34:46+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163639-senior-system-engineer-virtual-private-cloud-team-2
 1.0,JOB,Nebius,2026-11-21T10:34:44+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163638-principal-manager-ml-solutions-architecture-token-factory
@@ -11,41 +49,3 @@ schemaVersion,recordType,content.company,content.date,content.is_remote,content.
 1.0,JOB,Veeam Software,2026-11-21T10:34:17+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163630-technical-account-manager-14
 1.0,JOB,Ae Studio,2026-11-21T10:32:58+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163629-applied-ai-data-scientist
 1.0,JOB,Edb,2026-11-21T10:32:56+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163628-sr-technical-program-manager
-1.0,JOB,Path Robotics,2026-11-21T10:32:54+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163627-machine-learning-engineer-perception
-1.0,JOB,Nash,2026-11-21T10:32:36+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163626-gtm-engineer-6
-1.0,JOB,Ae Studio,2026-11-21T10:32:34+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163624-alignment-scientist-engineer
-1.0,JOB,Edb,2026-11-21T10:32:33+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163623-solutions-engineerpython-airflow
-1.0,JOB,Path Robotics,2026-11-21T10:32:31+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163622-enterprise-account-executive-commercial-defense
-1.0,JOB,Nash,2026-11-21T10:32:29+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163621-technical-support-specialist-us-east-coast
-1.0,JOB,Ae Studio,2026-11-21T10:32:27+00:00,True,Research,Jobicy,https://jobicy.com/jobs/163619-alignment-research-manager
-1.0,JOB,Edb,2026-11-21T10:32:25+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163618-software-engineering-program-manager
-1.0,JOB,Clickup,2026-11-21T03:30:13+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156247-technical-account-manager-7
-1.0,JOB,Nash,2026-11-21T03:30:11+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156246-enterprise-solutions-consultant-anz
-1.0,JOB,Harness,2026-11-21T03:25:31+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156215-sales-engineer-san-francisco
-1.0,JOB,Amplitude,2026-11-21T03:25:28+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156254-partner-solutions-architect-aws
-1.0,JOB,Quince,2026-11-21T03:25:26+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156251-materials-sourcing-manager-wool
-1.0,JOB,Supabase,2026-11-21T03:25:25+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156249-database-support-engineer-japanese-speaking
-1.0,JOB,Ashby,2026-11-21T03:25:24+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156244-manager-product-support-apac
-1.0,JOB,Caylent,2026-11-21T03:25:22+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156243-operations-analyst
-1.0,JOB,Gitlab,2026-11-21T03:25:20+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156239-strategic-account-executive-financial-services-brazil
-1.0,JOB,Gitlab,2026-11-21T03:25:19+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156238-strategic-account-executive-brazil-3
-1.0,JOB,Gitlab,2026-11-21T03:25:17+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156236-regional-sales-director-commercial-latam
-1.0,JOB,Cordance,2026-11-21T03:25:15+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156225-account-executive-26
-1.0,JOB,Maintainx,2026-11-21T03:25:14+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156261-mid-market-account-executive-7
-1.0,JOB,Maintainx,2026-11-21T03:25:12+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156260-mid-market-account-executive-emea-2
-1.0,JOB,Maintainx,2026-11-21T03:25:10+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156258-inside-sales-representative-enterprise
-1.0,JOB,Carrot,2026-11-21T03:25:09+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156214-sr-it-systems-engineer-2
-1.0,JOB,Brafton,2026-11-21T03:20:37+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156205-sales-marketing-operations-specialist-mexico
-1.0,JOB,Spotify,2026-11-21T03:20:36+00:00,True,Product,Jobicy,https://jobicy.com/jobs/156179-senior-product-manager-audiobooks-format-foundations
-1.0,JOB,Alimentiv,2026-11-21T03:20:34+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156227-clinical-operations-lead-2
-1.0,JOB,Rithum,2026-11-21T03:20:32+00:00,True,Product,Jobicy,https://jobicy.com/jobs/156226-pmo-portfolio-analyst
-1.0,JOB,Perfectserve,2026-11-21T03:20:31+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156231-senior-platform-engineer-us-remote
-1.0,JOB,Harness,2026-11-21T03:20:29+00:00,True,Product,Jobicy,https://jobicy.com/jobs/156222-senior-outbound-product-manager
-1.0,JOB,Harness,2026-11-21T03:20:27+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156221-senior-field-marketing-manager-events
-1.0,JOB,Harness,2026-11-21T03:20:26+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156219-senior-enterprise-account-executive-seattle
-1.0,JOB,Smartling,2026-11-21T03:20:24+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156175-localisation-project-manager
-1.0,JOB,Harness,2026-11-21T03:20:22+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156216-sales-engineer-seattle
-1.0,JOB,Spotify,2026-11-21T03:20:20+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156186-senior-web-engineer-subscriptions
-1.0,JOB,Gitlab,2026-11-21T03:20:19+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156195-customer-success-architect-japan
-1.0,JOB,Life360,2026-11-21T03:20:17+00:00,True,Data,Jobicy,https://jobicy.com/jobs/156203-senior-director-analytics-and-data-science-core-product-growth
-1.0,JOB,Stackadapt,2026-11-21T03:20:12+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/156196-senior-sales-manager-2

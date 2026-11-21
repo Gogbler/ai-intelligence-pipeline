@@ -32,6 +32,7 @@ async def execute_with_backoff(
     max_delay: float = 30.0,
     backoff_factor: float = 2.0,
     provider_name: str = "LLM",
+    on_retry: Optional[Callable[[int, float], None]] = None,
     **kwargs,
 ) -> Any:
     """Execute an asynchronous function with exponential backoff and randomized jitter for HTTP 429."""
@@ -56,6 +57,11 @@ async def execute_with_backoff(
                 f"[{provider_name}] Rate limit (429) encountered. Attempt {attempt}/{max_retries}. "
                 f"Backing off for {sleep_seconds:.2f}s with jitter..."
             )
+            if on_retry:
+                try:
+                    on_retry(attempt, sleep_seconds)
+                except Exception:
+                    pass
             await asyncio.sleep(sleep_seconds)
 
         except ContextOverflowError:
@@ -73,6 +79,11 @@ async def execute_with_backoff(
                 logger.warning(
                     f"[{provider_name}] Rate limit detected in error. Attempt {attempt}/{max_retries}. Sleeping {sleep_seconds:.2f}s."
                 )
+                if on_retry:
+                    try:
+                        on_retry(attempt, sleep_seconds)
+                    except Exception:
+                        pass
                 await asyncio.sleep(sleep_seconds)
             else:
                 # Non-rate-limit exception; propagate immediately

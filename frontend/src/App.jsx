@@ -135,7 +135,7 @@ export default function App() {
 
         {/* 3. LLM Resilience & Source Health */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-          <LLMMetrics metrics={llmMetrics} />
+          <LLMMetrics metrics={llmMetrics} onRefresh={loadData} />
           <SourceHealth sources={sources} />
         </div>
 

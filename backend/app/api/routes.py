@@ -76,6 +76,14 @@ def get_llm_metrics() -> Dict[str, Any]:
     return llm_orchestrator.get_metrics()
 
 
+@router.post("/llm/run")
+@router.post("/llm/benchmark")
+async def trigger_llm_resilience_benchmark() -> Dict[str, Any]:
+    """Execute live Multi-Tier LLM Fallback, 429 Jitter Backoff, and 413 Chunking benchmark."""
+    summary = await llm_orchestrator.run_resilience_benchmark()
+    return summary
+
+
 @router.get("/entity-mappings")
 def get_entity_mappings(limit: int = 50, db: Session = Depends(get_db)) -> List[Dict[str, Any]]:
     """Return recent entity resolution mapping logs."""

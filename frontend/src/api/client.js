@@ -18,6 +18,12 @@ export async function fetchLLMMetrics() {
   return res.json();
 }
 
+export async function triggerLLMRun() {
+  const res = await fetch(`${API_BASE}/llm/run`, { method: "POST" });
+  if (!res.ok) throw new Error("Failed to trigger LLM resilience benchmark");
+  return res.json();
+}
+
 export async function fetchEntityMappings(limit = 25) {
   const res = await fetch(`${API_BASE}/entity-mappings?limit=${limit}`);
   if (!res.ok) throw new Error("Failed to fetch entity mappings");
