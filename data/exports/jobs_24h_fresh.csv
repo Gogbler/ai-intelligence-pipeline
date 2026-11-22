@@ -1,4 +1,5 @@
 schemaVersion,recordType,content.company,content.date,content.is_remote,content.role_family,source.name,source.url
+1.0,JOB,Hn Ai Startup,2026-11-21T21:11:08+00:00,False,Engineering,Hacker News Jobs,https://tasklet.ai/careers
 1.0,JOB,Alimentiv,2026-11-22T05:59:09+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163824-clinical-operations-lead-eu
 1.0,JOB,Welo Global,2026-11-22T05:58:55+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163823-crux-video-and-audio-qa-french-france
 1.0,JOB,Alimentiv,2026-11-22T05:58:43+00:00,True,Engineering,Jobicy,https://jobicy.com/jobs/163822-clinical-compliance-specialist
