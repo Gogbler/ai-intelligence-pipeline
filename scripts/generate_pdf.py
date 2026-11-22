@@ -267,7 +267,7 @@ def build_pdf(filename=None):
     story.append(Paragraph("<b>3.1 Distributed Deduplication (Bloom Filter + Content SimHash)</b>", h2_style))
     story.append(Paragraph(
         "• <b>Redis Counting Bloom Filter:</b> Evaluates incoming canonical URLs in $O(1)$ time with a 0.01% false positive probability across millions of URLs. Eliminates redundant crawler network trips.<br/>"
-        "• <b>Content SimHash (64-bit):</b> Syndicated news articles and cross-posted jobs published under different URLs are caught via 64-bit Hamming distance ($\le 3$). Near-duplicate articles are mapped to the primary source.",
+        "• <b>Content SimHash (64-bit):</b> Syndicated news articles and cross-posted jobs published under different URLs are caught via 64-bit Hamming distance (&le; 3). Near-duplicate articles are mapped to the primary source.",
         bullet_style
     ))
 
