@@ -4,6 +4,7 @@
 import os
 from typing import Dict, Any, List
 from fastapi import APIRouter, Depends, BackgroundTasks, HTTPException
+from fastapi.responses import FileResponse
 from sqlalchemy.orm import Session
 from sqlalchemy import func
 from app.config import settings
@@ -202,3 +203,17 @@ def get_exports_metadata() -> Dict[str, Any]:
         ],
         "import_instructions": "Create a new Google Sheet, click File -> Import, and import either the 6 individual CSVs into their corresponding tabs or the master .xlsx file directly.",
     }
+
+
+@router.get("/exports/download/{filename}")
+def download_export_file(filename: str):
+    """Download an exported dataset file (CSV or XLSX)."""
+    safe_name = os.path.basename(filename)
+    file_path = os.path.join(settings.DATA_EXPORT_DIR, safe_name)
+    if not os.path.exists(file_path):
+        raise HTTPException(status_code=404, detail="Export file not found.")
+    return FileResponse(
+        path=file_path,
+        filename=safe_name,
+        media_type="application/octet-stream",
+    )
