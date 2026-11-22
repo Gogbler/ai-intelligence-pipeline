@@ -56,6 +56,16 @@ else:
         }
 
 
+@app.get("/architecture.pdf")
+def serve_architecture_pdf():
+    pdf_path = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "..", "..", "docs", "architecture.pdf")
+    )
+    if os.path.exists(pdf_path):
+        return FileResponse(pdf_path, media_type="application/pdf", filename="architecture.pdf")
+    return {"error": "Architecture PDF not found"}
+
+
 @app.on_event("startup")
 def on_startup():
     init_db()
